@@ -1,0 +1,1 @@
+While building an Expo app, I encountered an error related to a missing or improperly configured dependency. The specific error message varied depending on the dependency, but generally involved a missing module or an incompatibility between packages.  The error occurred during the build process, preventing the app from generating successfully.
